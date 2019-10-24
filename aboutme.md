@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
+My name is Jonathan Mendoza, I am a senior at UTSA, working towards my B.S. in Physics. 
+A few interesting things about me:
+  - I am studying at Lambda school, working towards a career in artificial intelligence and machine learning.
+  - I've had research internships through NASA, where we studied landing on Mars and the potential gains of such an accomplishment.
+  - I have co-authored a paper in the Journal of Nanomedicine. 
+  
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I grew up as the first son of an Mexican immigrant. 
